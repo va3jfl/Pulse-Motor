@@ -4,6 +4,20 @@ A parameterised Python simulation of a switched-reluctance pulse motor
 (Bedini topology): stator coil/core electromagnetics, rotating magnet
 dynamics, and the transistor drive + inductive flyback ("kickback") transients.
 
+<p align="center">
+  <a href="#install"><img src="https://img.shields.io/badge/python-3.8%2B-blue" alt="Python 3.8+"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License: MIT"></a>
+  <a href="#install"><img src="https://img.shields.io/badge/platform-Windows%20·%20Linux%20·%20macOS-lightgrey" alt="Platform"></a>
+</p>
+
+### 📸 Screenshots
+*Click images to expand*
+
+<p align="left">
+  <a href="gui_screenshot.png" target="_blank">
+    <img src="gui_screenshot.png" width="80%" alt="GUI">
+  </a>
+</p>
 
 ## Layout
 
